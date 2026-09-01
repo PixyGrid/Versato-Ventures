@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://versatoventures.com/sitemap.xml
